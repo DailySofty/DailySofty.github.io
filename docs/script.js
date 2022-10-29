@@ -1,1 +1,3 @@
-console.log("[template-web] Hello World!");
+const TITLE = 'DailySofty';
+
+console.log(`[${TITLE}] Hello World!`);
